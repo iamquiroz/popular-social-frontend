@@ -11,7 +11,6 @@ import AddIcon from "@material-ui/icons/Add";
 import ForumIcon from "@material-ui/icons/Flag";
 import NotificationsActiveIcon from "@material-ui/icons/NotificationsActive";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
-import { StorefrontOutlined } from "@material-ui/icons";
 
 const Header = () => {
   return (
