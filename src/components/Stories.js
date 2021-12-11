@@ -34,7 +34,7 @@ const Stories =() =>{
 
 
 const StoriesWrapper = styled.div`
-
+	display: flex;
 `
 
 
